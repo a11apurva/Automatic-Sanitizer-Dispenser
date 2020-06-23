@@ -7,4 +7,4 @@ alt="IMAGE ALT TEXT HERE" width="220" height="45" border="10" /></a>
 
 
 
-![alt text](relative/schematic1A.PNG?raw=true)
+![Screenshot](schematic1A.PNG)
