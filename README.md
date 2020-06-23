@@ -9,6 +9,6 @@ alt="IMAGE ALT TEXT HERE" width="220" height="45" border="10" /></a>
 
 ![Screenshot](schematic1A.PNG)
 
-![Screenshot](schematic1A.PNG)
+![Screenshot](schematic1B.PNG)
 
 
